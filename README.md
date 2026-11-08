@@ -1,132 +1,250 @@
-🌌 BUILDER | DIGITAL UNIVERSE
+🌌 BUILDER | FULL-STACK ENGINEER
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:111827,100:00D9FF&text=BUILDER&fontSize=75&fontColor=00F5FF&fontAlignY=38&desc=Turning%20Ideas%20Into%20Digital%20Reality&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:312E81,75:0891B2,100:020617&height=260&section=header&text=BUILDER&fontSize=85&fontColor=00F5FF&fontAlignY=38&desc=ENGINEERING%20THE%20DIGITAL%20FUTURE&descSize=17&descAlignY=58&animation=fadeIn" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=FULL-STACK+DEVELOPER+%F0%9F%9A%80;UI%2FUX+DESIGN+ENTHUSIAST+%F0%9F%8E%A8;BUILDING+THE+FUTURE+WITH+CODE+%E2%9A%A1;WELCOME+TO+MY+DIGITAL+UNIVERSE+%F0%9F%8C%8C)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=FULL-STACK+DEVELOPER+%F0%9F%9A%80;REACT+%2B+TYPESCRIPT+SPECIALIST+%E2%9A%9B%EF%B8%8F;TAILWIND+CSS+%2B+VITE+%E2%9A%A1;SQL+%2B+MYSQL+DATABASES+%F0%9F%97%84%EF%B8%8F;BUILDING+THE+WEB%2C+ONE+IDEA+AT+A+TIME+%F0%9F%8C%8C" alt="Typing SVG"/>
 
 <br/>
 
-!Profile Views ![GitHub followers](https://img.shields.io/github/followers/builderman8002?style=for-the-badge&color=7B2CFF&labelColor=050816) ![GitHub Stars](https://img.shields.io/github/stars/builderman8002?style=for-the-badge&color=FFD700&labelColor=050816)
+![GitHub](https://img.shields.io/badge/GitHub-Builderman8002-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF) !Profile Views !Developer
 
 </div>
 
-👨‍🚀 TRANSMISSION FROM BUILDER
-yaml
-Name: Builder
-Role: Full-Stack Developer
-Universe: Digital World 🌌
-Mission: Build extraordinary digital experiences
-Mindset: Think Big. Build Smart. Stay Curious.
-Status: Exploring New Technologies ⚡
+🧬 01. WHO AM I?
+typescript
+const builder = {
+  name: "Builder",
+  username: "builderman8002",
+  role: "Full-Stack Developer",
 
+  frontend: [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Vite"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  databases: [
+    "SQL",
+    "MySQL"
+  ],
+
+  interests: [
+    "Software Architecture",
+    "UI/UX Design",
+    "Performance Optimization",
+    "Modern Web Technologies"
+  ],
+
+  mindset: "Think. Build. Innovate. Repeat."
+};
+
+
+I'm a Full-Stack Developer passionate about building modern, scalable, and visually stunning web applications.
+
+I enjoy transforming ideas into real-world products, combining clean architecture, intuitive interfaces, and efficient database systems.
+
+⚛️ Building modern applications with React & TypeScript.
+🎨 Crafting beautiful interfaces using Tailwind CSS.
+⚡ Developing fast and optimized applications with Vite.
+🗄️ Designing and managing relational databases with SQL & MySQL.
+🔥 Exploring backend development, APIs, and system architecture.
+🚀 Constantly learning, experimenting, and building.
 
 <div align="center">
 
-💫 "I don't just write code. I build experiences."
+"Code is my language. Creativity is my weapon. Innovation is my mission."
 
 </div>
 
-💻 Full-Stack Developer passionate about Frontend & Backend.
-🎨 UI/UX enthusiast who loves beautiful and intuitive interfaces.
-🚀 Always exploring new technologies and pushing creative boundaries.
-🧩 Problem solver who enjoys turning complex ideas into simple solutions.
-🎮 Gamer, Sci-Fi enthusiast & technology explorer.
-☕ Powered by coffee, creativity, and curiosity.
-⚡ TECH ARSENAL
-💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,sass&theme=dark" />
-</p>
-
-🎨 Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,bootstrap,tailwind,jquery&theme=dark" />
-</p>
-
-⚙️ Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,bun,mongodb&theme=dark" />
-</p>
-
-☁️ Cloud, DevOps & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,netlify,docker,git,github,gitlab,githubactions,npm,postman,babel,eslint&theme=dark" />
-</p>
-
-🎨 Design & Creative Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,canva&theme=dark" />
-</p>
-
-🧪 Testing & Automation
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-</p>
-
-🎮 Gaming & Hardware
-
-<p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-</p>
-
-📊 GITHUB COMMAND CENTER
+⚡ 02. MY TECH UNIVERSE
+🚀 CORE TECHNOLOGIES
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=builderman8002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7B2CFF&text_color=FFFFFF&rank_icon=github"/>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" />
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=builderman8002&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=builderman8002&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres&theme=dark" />
 
 </div>
 
-🏆 ACHIEVEMENT UNLOCKED
+💻 FRONTEND DEVELOPMENT
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=builderman8002&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nextjs,bootstrap,sass&theme=dark" />
 
 </div>
 
-🐍 CONTRIBUTION UNIVERSE
+⚙️ BACKEND DEVELOPMENT
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/builderman8002/builderman8002/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,bun&theme=dark" />
 
 </div>
 
-🌠 MY DEVELOPER PHILOSOPHY
+🗄️ DATABASES & DATA
 
 <div align="center">
 
-01000010 01010101 01001001 01001100 01000100
-"Great things are built one line of code at a time."
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
-DREAM BIG. CODE SMART. BUILD THE IMPOSSIBLE.
+<img src="https://img.shields.io/badge/SQL-Database%20Management-00758F?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</div>
+
+🛠️ TOOLS & WORKFLOW
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,npm,vscode,linux&theme=dark" />
+
+</div>
+
+🎨 DESIGN & CREATIVE TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva&theme=dark" />
+
+</div>
+
+🌐 ADDITIONAL TECHNOLOGIES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,angular,vue,jquery,selenium,unity,aws,netlify&theme=dark" />
+
+</div>
+
+🧠 03. WHAT I DO
+
+<table>
+<tr>
+<td width="50%">
+
+⚛️ Frontend Engineering
+Modern React Applications
+TypeScript Development
+Reusable Components
+Responsive Interfaces
+Tailwind CSS Styling
+
+</td>
+<td width="50%">
+
+⚙️ Backend Engineering
+REST API Development
+Server-Side Logic
+Authentication Systems
+Application Architecture
+Backend Integration
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🗄️ Database Engineering
+SQL Queries
+MySQL Database Design
+Relational Data Modeling
+Database Optimization
+Data Management
+
+</td>
+<td width="50%">
+
+⚡ Development Workflow
+Git & GitHub
+Vite Tooling
+Debugging & Testing
+Performance Optimization
+Deployment & Integration
+
+</td>
+</tr>
+</table>
+
+📊 04. GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=builderman8002&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=8B5CF6&text_color=FFFFFF&theme=transparent&rank_icon=github"/>
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=builderman8002&theme=transparent&hide_border=true&background=050816&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&sideLabels=FFFFFF"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2CFF,100:050816&height=130&section=footer&animation=fadeIn"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=builderman8002&layout=donut-vertical&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF&theme=transparent"/>
 
-🌌 END OF TRANSMISSION
+</div>
 
-Thanks for exploring my universe!
+🏆 05. ACHIEVEMENTS & TROPHIES
 
-⭐ If you like what I build, consider starring my repositories.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=builderman8002&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12" width="100%"/>
+
+</div>
+
+📈 06. CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=builderman8002&bg_color=050816&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=BUILDER%20%7C%20CONTRIBUTION%20UNIVERSE" width="100%"/>
+
+</div>
+
+🐍 07. CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/builderman8002/builderman8002/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
+
+🌌 08. BEYOND THE CODE
+
+<div align="center">
+
+🎮 Gaming	🎵 Music	☕ Coffee
+Gamer at heart	Music enthusiast	Developer fuel
+🚀 Innovation	🎨 Creativity	🌠 Sci-Fi
+Always exploring	Design lover	Future obsessed
+
+</div>
+
+💎 09. DEVELOPER MINDSET
+
+<div align="center">
+
+BUILDING IS AN ART. ENGINEERING IS THE SCIENCE.
+text
+01000010 01010101 01001001 01001100 01000100 01000101 01010010
+
+
+DREAM IT. DESIGN IT. DEVELOP IT. DEPLOY IT.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:312E81,100:0891B2&height=2&section=footer"/>
+
+🌌 WELCOME TO MY UNIVERSE
+
+The future isn't something we wait for. It's something we build.
+
+⭐ Explore my repositories and let's create something extraordinary!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:020617&height=140&section=footer"/>
 
 </div>
